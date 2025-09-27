@@ -20,6 +20,3 @@ def linear_regresion():
     r2 = r2_score(y_test, y_pred)
 
     return (mse, r2)
-
-
-
